@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <body>
       <p className={styles.header_text_1}>Hello! </p>
-      <p className={styles.header_text_2}>I'm Chloe</p>
+      <p className={styles.header_text_2}>I'm Chloe Heng</p>
       <p className={styles.header_text_3}>Nice to meet you!</p>
       <div className= {styles.button_container}>
       <a className= {styles.cv} href = "https://www.linkedin.com/in/chloe-heng-27554a1b7/" > linkedin</a>
